@@ -1,3 +1,7 @@
+原连接已经被阿里关闭下载，联系作者lisishang@gmail.com
+
+
+以下为原数据链接
 guangdong1_round1_train1_20190818.zip
 http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231748/round1/guangdong1_round1_train1_20190818.zip
 md5:8169c65aa09b2f80725fc074870bbe54
